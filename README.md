@@ -1,9 +1,13 @@
-# ICSPIS-2021
->📋  This is a readme file for the implementation of paper “A Joint-Entropy Approach To Time-series Classification” published in “7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)”. 
+## ICSPIS-2021
+This is a readme file for the implementation of paper “A Joint-Entropy Approach To Time-series Classification” published in “7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)”. 
 
 For more information, please refer to:  
-K. Safarihamid, A. Pourafzal and A. Fereidunian, "A Joint-Entropy Approach To Time-series Classification," 2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS), 2021, pp. 1-7, doi: 10.1109/ICSPIS54653.2021.9729371.
+K. Safarihamid, A. Pourafzal and A. Fereidunian, "A Joint-Entropy Approach To Time-series Classification," 2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS), 2021, pp. 1-7, 
+
+doi: 10.1109/ICSPIS54653.2021.9729371.
+
 https://ieeexplore.ieee.org/document/9729371
+
 https://www.researchgate.net/publication/359182900_A_Joint-Entropy_Approach_To_Time-series_Classification
 
 
