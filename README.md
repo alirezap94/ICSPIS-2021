@@ -32,12 +32,4 @@ Supported by classification metric and visual inspection, one can confirm that j
 
 ## Contributing
 
-You can use and modify this work by citing the original paper
-@inproceedings{safarihamid2021joint,
-  title={A Joint-Entropy Approach To Time-series Classification},
-  author={Safarihamid, Kimia and Pourafzal, Alireza and Fereidunian, Alireza},
-  booktitle={2021 7th International Conference on Signal Processing and Intelligent Systems (ICSPIS)},
-  pages={1--7},
-  year={2021},
-  organization={IEEE}
-} 
+You can use and modify this work by citing the original paper. 
